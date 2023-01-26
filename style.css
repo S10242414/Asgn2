@@ -1,0 +1,17 @@
+*,html{font-family: Arial, Helvetica, sans-serif;}
+.bg-white{background: white;}
+.animation-center{  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*height: 100vh;*/ /*if we only want this item to be smack center*/
+ }
+.loading-text{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    font-size: large;
+    top: -30px;
+    position: relative;
+    font-style: italic;
+}
