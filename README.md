@@ -12,7 +12,7 @@
 - [ ] Second Page: Main Page
 - [ ] Third Page: Menu
 - [ ] Fourth Page: Available Locations
-- [ ] Side Navigation Bars with different options
+- [x] Side Navigation Bars with different options
 
 ## Wireframe:
 
